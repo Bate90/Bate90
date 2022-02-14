@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bate90
+- 👋 Hi, I’m @Bate Ayuk Emmanuel
 - 👀 I’m interested in ... Data Science
 - 🌱 I’m currently learning ... Cameroon
 - 💞️ I’m looking to collaborate on ... IBM
