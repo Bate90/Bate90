@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bate Ayuk Emmanuel
 - 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... Cameroon
-- 💞️ I’m looking to collaborate on ... IBM
+- 🌱 I’m currently learning in ... Cameroon
+- 💞️ I’m looking to collaborate on ... IBM, Alphabet, Amazon
 - 📫 How to reach me ... Linkedin.
 
 <!---
